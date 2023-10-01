@@ -1,2 +1,2 @@
-# Formula1-data-analysis
+# Formula1
 Formula1 Data Analysis
